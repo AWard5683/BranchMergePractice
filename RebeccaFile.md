@@ -1,1 +1,2 @@
 this is just rebecca trying to spell right and push and pull and be able to successfully contribute to the project 
+just trying to make sure that I understand what is going on with merging  ___ see what happens
