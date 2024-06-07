@@ -9,7 +9,7 @@ class Program
     }
     static void Rebecca(string[]args)
     {
-      System.Console.WriteLine("me too!");  
+      System.Console.WriteLine("me too! Why is this not working");
     }
     
 }
